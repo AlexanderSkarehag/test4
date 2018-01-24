@@ -1,0 +1,39 @@
+body, html
+{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+header
+{
+    height: 10vh;
+}
+footer
+{
+    height: 10vh
+}
+.flex
+{
+    display: flex;
+
+}
+.col1
+{
+    width: 25%;
+    height: 80vh;
+    background-color: green;
+}
+.col2
+{
+    background-color: blue;
+    width: 50%;
+    height: 80vh;
+}
+.color1
+{
+    background-color: darkgray;
+}
+.color2
+{
+    background-color: lightgray;
+}
